@@ -1,0 +1,376 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #F7F8FA;
+}
+
+.header{
+	background-color: #316DC3;
+	height: 50px;
+}
+
+.icons{
+	color: white;
+	font-size: 13px;
+}
+.fa-facebook-f{
+	margin-left: 110px;
+	margin-top: 15px;
+}
+
+.fa-twitter{
+	margin-left: 23px;
+}
+
+.fa-instagram{
+	margin-left: 23px;
+}
+
+.fa-youtube{
+	margin-left: 23px;
+}
+
+.whatsapp{
+	width: 20px;
+	height: 20px;
+	margin-left: 260px;
+	margin-top: -40px;
+	margin-bottom: 10px;
+}
+
+.header-text{
+	color: white;
+	font-family: arial;
+	font-size: 15px;
+	margin-left: 420px;
+	margin-top: -43px;
+}
+
+.buttons{
+	float: right;
+	margin-top: -25px;
+	margin-right: 90px;
+}
+
+.button-design{
+	height: 30px;
+	color: green;
+	font-family: arial;
+	font-size: 12px;
+	border: 1px solid green;
+}
+
+.navbar{
+	width: 100%;
+}
+
+.saylani-logo{
+	max-height: 52px;
+	margin-left: 90px;
+}
+
+.nav-items{
+	margin-top: 10px;
+	width: 80px;
+	text-align: center;
+	font-family: arial;
+	font-size: 13px;
+}
+#home-btn{
+	background: #316DC3;
+	border-radius: 20px;
+	color: white;
+	margin-left: 250px;
+	text-decoration: bold;
+}
+
+#navbarDropdown{
+	color: black;
+}
+
+#navbarDropdown1{
+	color: black;
+	width: 100%;
+}
+
+#navbarDropdown2{
+	color: black;
+	width: 100%;
+}
+
+#navbarDropdown3{
+	color: black;
+}
+
+#media{
+	color: black;
+}
+
+#news{
+	color: black;
+}
+
+.C-Design{
+	height: 500px;
+	opacity: 1;
+    z-index: 20;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    background-position: center center;
+}
+
+.introduction{
+	text-transform: uppercase;
+	margin-top: 50px;
+	font-weight: bold;
+}
+
+#intro{
+	font-family: 'Merriweather', serif;
+	font-size: 32px;
+	color: #316DC3;
+	display: inline;
+}
+
+#duction{
+	font-family: 'Merriweather', serif;
+	font-size: 32px;
+	color: #427900;
+	display: inline;
+}
+
+#before{
+	color: green;
+	width: 30%;
+}
+
+#before-icon{
+
+	display: inline-block;
+	border: 1px solid #427900;
+	width: 30px;
+}
+
+#after-icon{
+
+	display: inline-block;
+	border: 1px solid #427900;
+	width: 30px;
+}
+
+#intro-content{
+	margin-left: 190px;
+	margin-right: 190px;
+	text-align: justify;
+	color: #666666;
+	font-family: calibri;
+	font-size: 17px;
+}
+
+.contain{
+	margin-top: 90px;
+	padding-top: 30px;
+	padding-right: 50px;
+	padding-left: 50px;
+	background-color: blue;
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 100%;
+	height: 240px;
+}
+
+.element{
+	margin-top: 10px;
+}
+
+.icon-settings{
+	width: 40px;
+	height: 40px;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.white-content{
+	color: #FFFFFF;
+	font-family: 'Merriweather', serif;
+	font-weight: 500;
+
+}
+.green-content{
+	color: #00FF00;
+	font-size: 18px;
+	display: inline;
+}
+
+.upper{
+	font-family: 'Merriweather', serif;
+	font-weight: 500;
+	font-size: 48px;
+}
+
+.lower-white{
+	text-transform: uppercase;
+	font-family: 'Merriweather', serif;
+	font-weight: 600;
+	font-size: 14px;
+}
+
+.text-design{
+	font-family: 'Merriweather', serif;
+	color: #316DC3;
+	font-size: 18px;
+	font-weight: 600;
+	margin-top: 20px;
+}
+
+#services{
+	margin-right: 120px;
+	margin-left: 120px;
+	
+}
+
+.box{
+	background-color: #fff;
+	box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+	padding: 30px;
+	margin-bottom: 30px;
+	width: 31%;
+	display: inline-block;
+}
+
+.mid-box{
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.mission-div{
+	margin-left: 120px;
+	margin-top: 80px;
+	width: 50%;
+}
+
+.mission{
+	margin-bottom: -5px;
+	color: #316DC3;
+	font-family: 'Merriweather', serif;
+	font-size: 24px;
+	font-weight: 900;
+}
+
+#mission-after-icon{
+
+	display: inline-block;
+	border: 1px solid #427900;
+	width: 50px;
+}
+
+.mp{
+	font-family: 'Merriweather', serif;
+	font-size: 15px;
+	color: #316DC3;
+	background-color: #F7F8FA;
+	padding: 20px;
+	margin-top: 20px;
+	margin-right: 50px;
+}
+
+.h4-item{
+	font-size: 15px;
+	display: inline;
+	font-weight: bold;
+	margin-left: 25px;
+}
+
+#upcoming-events{
+	float: right;
+	margin-top: -250px;
+	margin-right: 270px;
+	text-transform: initial;
+}
+
+#upcoming-after-icon{
+	display: inline-block;
+	border: 1px solid #427900;
+	width: 50px;
+	float: right;
+	margin-top: -230px;
+	margin-right: 425px;
+}
+
+.event-details{
+	float: right;
+	margin-top: -200px;
+	margin-right: 220px;
+	text-transform: initial;
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.gallery{
+	display: inline;
+	margin-right: -100px;
+}
+
+.card{
+	padding: 0px;
+	margin: 0px;
+	margin-top: 200px;
+}
+
+.card-body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	background-color: #2e2b2b;
+}
+
+.footer-text{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	color: #BBBBBB;
+}
+
+i, li{
+	display: inline-block;
+	color: #BBBBBB;
+}
+
+.change-color{
+	color: green;
+}
+
+li{
+	margin-bottom: 10px;
+}
+
+.p-padding{
+	padding-top: 80px;
+	padding-left: 80px;
+}
+
+.ul-padding{
+	padding-left: 40px;
+}
+
+#useful-links{
+	color: white;
+	display: inline;
+	font-size: 14px;
+	font-family: 'Merriweather', serif;
+	margin: 0px;
+	padding: 0px;
+	margin-left: 500px;
+	margin-top: 0px;
+	margin-bottom: 500px;
+}
+
+#footer-design{
+	background-color: #316DD9;
+	/*width: 100%;
+	height: 100%;
+	padding: 20px;*/
+}
+
+#f-text{
+	color: #FFFFFF;	
+	font-size: 11px;
+	font-family: 'Open Sans', sans-serif;
+}
